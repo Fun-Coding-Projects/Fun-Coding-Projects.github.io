@@ -1,6 +1,6 @@
 # Fun Coding Projects
 
-* work in progress *
+_work in progress_
 
 Simple Games that new programs can type in and experiment with to learn programming.
 
