@@ -1,4 +1,4 @@
-# Kids Coding Projects
+# Fun Coding Projects
 
 * work in progress *
 
